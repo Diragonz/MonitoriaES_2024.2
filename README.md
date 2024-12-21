@@ -26,3 +26,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 | **DevSecOps** |
 
 ## 👨🏽‍💻👩🏻‍💻 Lista de Estudantes (Insira seu nome abaixo)
+1. Vitor Hugo Mendonça de Queiroz (vhmq)
