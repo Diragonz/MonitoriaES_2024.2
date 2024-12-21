@@ -1,4 +1,4 @@
-# MonitoriaES_2024.1
+# MonitoriaES_2024.2
 
 Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vocês como atividade da primeira monitoria da disciplina. È uma atividade bem simples, mas que vai fixar os assuntos de Git para vocês. Qualquer dúvida, só perguntar. Insira seu nome na coluna abaixo! :)) 
 
