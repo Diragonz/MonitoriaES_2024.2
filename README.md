@@ -28,3 +28,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 ## 👨🏽‍💻👩🏻‍💻 Lista de Estudantes (Insira seu nome abaixo)
 1. Vitor Hugo Mendonça de Queiroz (vhmq)
 2. Arthur Santos Marinho de Souza (asms)
+3. Rafael Mourato Dantas Vilar (rmdv)
