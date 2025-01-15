@@ -30,3 +30,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 2. Arthur Santos Marinho de Souza (asms)
 3. Mikaell Miguel da Silva (mms14)
 4. Rafael Mourato Dantas Vilar (rmdv)
+5. Samuel Oliveira de Miranda (som3)
