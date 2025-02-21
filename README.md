@@ -31,4 +31,7 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 3. Mikaell Miguel da Silva (mms14)
 4. Rafael Mourato Dantas Vilar (rmdv)
 5. Samuel Oliveira de Miranda (som3)
-6. Yasmim Adrieny da Silva Sales (yass)
+6. Ítallo Auguusto Pereira de Azevêdo Melo (iapam)
+7. Mateus Henrique Ataide de Lima (mhal)
+8. Antonio Robério Barreto de Oliveira Filho (arbof)
+9. Yasmim Adrieny da Silva Sales (yass)
