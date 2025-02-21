@@ -32,3 +32,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 4. Rafael Mourato Dantas Vilar (rmdv)
 5. Samuel Oliveira de Miranda (som3)
 6. Ítallo Auguusto Pereira de Azevêdo Melo (iapam)
+6. Mateus Henrique Ataide de Lima (mhal)
