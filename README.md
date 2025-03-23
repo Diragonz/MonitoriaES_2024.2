@@ -35,4 +35,7 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 7. Mateus Henrique Ataide de Lima (mhal)
 8. Antonio Robério Barreto de Oliveira Filho (arbof)
 9. Yasmim Adrieny da Silva Sales (yass)
-10. Jose Luiz da Silva Neto (jlsn)
+10. Ricardo Morato (rmr)
+11. Ismael Henrique Xavier Cavalcante dos Santos (ihxcs)
+12. Eric Bezerra Londres Barreto (eblb)
+13. Jose Luiz da Silva Neto (jlsn)
