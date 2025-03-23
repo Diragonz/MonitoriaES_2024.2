@@ -42,3 +42,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 14. Nicolas Cavalcanti de Brito Barros (ncbb)
 15. Stela Nascimento (snon)
 16. Lucas Figueiredo de Azevedo (lfa5)
+17. Luís Felipe Guedes Souto Moreira (lfgsm)
