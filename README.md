@@ -40,3 +40,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 12. Eric Bezerra Londres Barreto (eblb)
 13. Jose Luiz da Silva Neto (jlsn)
 14. Nicolas Cavalcanti de Brito Barros (ncbb)
+15. Stela Nascimento (snon)
