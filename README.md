@@ -41,3 +41,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 13. Jose Luiz da Silva Neto (jlsn)
 14. Nicolas Cavalcanti de Brito Barros (ncbb)
 15. Stela Nascimento (snon)
+16. Lucas Figueiredo de Azevedo (lfa5)
