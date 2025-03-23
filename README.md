@@ -36,3 +36,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 8. Antonio Robério Barreto de Oliveira Filho (arbof)
 9. Yasmim Adrieny da Silva Sales (yass)
 10. Ricardo Morato (rmr)
+11. Ismael Henrique Xavier Cavalcante dos Santos (ihxcs)
